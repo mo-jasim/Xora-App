@@ -5,9 +5,7 @@
 
 <div>
   <br />
-    <a href="">
-      <img src="https://github.com/user-attachments/assets/a582919b-1bdf-4cb2-af44-69b2159cf109" alt="Project Banner">
-    </a>
+    <img src="https://github.com/user-attachments/assets/a582919b-1bdf-4cb2-af44-69b2159cf109" alt="Project Banner">
   <br />
 
 ## <a name="About">About</a>
