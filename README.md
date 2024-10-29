@@ -1,7 +1,14 @@
 <div align="start">
-    **Check out the app**: <a href="https://xora-app.jasim.io/" target="_blank"><b>xora-app.jasim.io</b></a>
+    Check out the app: <a href="https://xora-app.jasim.io/" target="_blank"><b>xora-app.jasim.io</b></a>
     </div>
 </div>
+
+<div align="center">
+  <br />
+    <a href="https://youtu.be/ukiGFmZ32YA?feature=shared" target="_blank">
+      <img src="https://github.com/user-attachments/assets/a582919b-1bdf-4cb2-af44-69b2159cf109" alt="Project Banner">
+    </a>
+  <br />
 
 ## <a name="About">About</a>
 
@@ -50,3 +57,10 @@ npm run dev
 ## Contributions:
 
 Contributions to improve the app’s functionality or user experience are always welcome. If you have ideas for new features, bug fixes, or UI improvements, feel free to fork the repository, make your changes, and submit a pull request. Feedback and suggestions can also be submitted through the business@gmail.com, where open discussions on future improvements are encouraged.
+
+## Learn More About Here:
+
+<div align="start">
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+    </div>
+</div>
