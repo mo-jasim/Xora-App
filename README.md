@@ -61,6 +61,6 @@ Contributions to improve the app’s functionality or user experience are always
 ## Learn More About Here:
 
 <div>
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. The Best Project Ever.
     </div>
 </div>
