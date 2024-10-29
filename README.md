@@ -3,6 +3,11 @@
     <a href"https://xora-app.jasim.io/" target="_blank">xora-app.jasim.io</a>
 </div>
 
+<div align="center">
+     <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+    </div>
+</div>
+
 ## <a name="About">About</a>
 
 Xora is a Modern UI/UX SaaS website developed using React.js and Tailwind CSS that exemplifies modern UI/UX principles.
