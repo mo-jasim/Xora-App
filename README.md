@@ -1,10 +1,5 @@
-## Check out the app -
-<div>
-    <a href"https://xora-app.jasim.io/" target="_blank">xora-app.jasim.io</a>
-</div>
-
-<div align="center">
-     <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+<div align="start">
+    **Check out the app**: <a href="https://xora-app.jasim.io/" target="_blank"><b>xora-app.jasim.io</b></a>
     </div>
 </div>
 
