@@ -1,5 +1,5 @@
 <div>
-    Check out the app: <a href="https://xora.buildwithjasim.tech" target="_blank"><b>xora-app.jasim.io</b></a>
+    Check out the app: <a href="https://xora.buildwithjasim.tech" target="_blank"><b>xora.buildwithjasim.tech</b></a>
     </div>
 </div>
 
